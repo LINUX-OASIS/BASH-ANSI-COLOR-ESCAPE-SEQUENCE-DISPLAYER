@@ -1,4 +1,4 @@
-# 🎨 Bash Color Code Reference Utility
+# 🎨 Bash ANSI Color Code Reference Utility
 
 <p align="center">
   <a href="https://github.com/LINUX-OASIS/BASH-ANSI-COLOR-ESCAPE-SEQUENCE-DISPLAYER/graphs/contributors">
