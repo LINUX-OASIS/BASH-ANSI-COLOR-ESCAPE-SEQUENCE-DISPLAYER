@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  A comprehensive visual reference for ANSI escape codes in Bash. This script demonstrates various methods for coloring and styling terminal text and, most importantly, prints the raw escape code for each example, allowing developers to easily copy and paste them into their own scripts.
+  A comprehensive visual reference for ANSI escape codes in Bash. This script demonstrates various methods for coloring and styling terminal text and, most importantly, prints the raw escape code for [...]
 </p>
 
 ---
@@ -104,15 +104,15 @@ Simply run the script from your terminal:
 
 ## 💬 Contributing
 
-Pull requests, issues, and suggestions are warmly welcomed!
-See `CONTRIBUTING.md` for guidelines.
+Pull requests, issues, and suggestions are warmly welcomed!  
+See [CONTRIBUTING.md](https://github.com/LINUX-OASIS/BASH-ANSI-COLOR-ESCAPE-SEQUENCE-DISPLAYER/blob/main/CONTRIBUTING.md) for guidelines.
 
 ## 🌐 Links
 
-*   **Issues**
-*   **Pull Requests**
-*   **Releases**
-*   **Wiki**
+* [Issues](https://github.com/LINUX-OASIS/BASH-ANSI-COLOR-ESCAPE-SEQUENCE-DISPLAYER/issues)
+* [Pull Requests](https://github.com/LINUX-OASIS/BASH-ANSI-COLOR-ESCAPE-SEQUENCE-DISPLAYER/pulls)
+* [Releases](https://github.com/LINUX-OASIS/BASH-ANSI-COLOR-ESCAPE-SEQUENCE-DISPLAYER/releases)
+* [Wiki](https://github.com/LINUX-OASIS/BASH-ANSI-COLOR-ESCAPE-SEQUENCE-DISPLAYER/wiki)
 
 ## 📜 License
 
@@ -120,4 +120,4 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 ## 🧙‍♂️ Maintainer
 
-**LINUX-OASIS**
+**[LINUX-OASIS](https://github.com/LINUX-OASIS)**
